@@ -1,0 +1,2 @@
+#### Opdracht
+Een auto verbruikt 5,8 liter benzine op 100 kilometer. Schrijf een programma dat naar de prijs van één liter benzine vraagt en het aantal gereden kilometers, en nadien berekent hoeveel de rit aan brandstof heeft gekost.
