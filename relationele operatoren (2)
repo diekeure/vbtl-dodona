@@ -1,0 +1,4 @@
+batterijlading=int(input("Geef het percentage van de batterijlading in (bv. 33)."))
+if batterijlading<=20:
+  print("Batterij bijna leeg.")
+  print(batterijlading,"% over.")
